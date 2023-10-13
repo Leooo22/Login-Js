@@ -1,8 +1,8 @@
 // JavaScript (seu_script.js)
 const usuarios = [
-    { username: 'adm@123', password: 'usf123' },
-    { username: 'leo@00', password: 'usf123' },
-    { username: 'math@002', password: 'usf123' }
+    { username: 'adm@123', password: '' },
+    { username: 'leo@00', password: '' },
+    { username: 'math@002', password: '' }
 ];
 
 document.getElementById('login-button').addEventListener('click', function () {
